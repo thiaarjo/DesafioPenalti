@@ -1,0 +1,17 @@
+# Temporários da Unreal Engine
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+FileOpenOrder/
+
+# Arquivos de solução de código e IDEs
+.vs/
+*.sln
+*.suo
+*.xcworkspace
+.vscode/
+
+# Trava de segurança
+*.uproject.lock
